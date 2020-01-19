@@ -1,4 +1,5 @@
 # TauriWoW Mists of Pandaria 5.4.8 macOS-re
+# TauriWoW Mists of Pandaria 5.4.8 for macOS
 
 # HU:
 # Használat:
@@ -8,7 +9,7 @@ Ez egy minimal klienst tartalmaz, így az első indításkor sokat fog tölteni.
 Ha van egy letöltött teljes kliensünk (pl. Torrenten letöltött Windows-os verzió) a kliens mappa tartalmát másoljuk át a macOS kliens mappájába (jobb gomb a TauriWoW Mists of Pandaria.app-ra, Csomag tartalmának megjelenítése, Contents/Resources/Tauri_files/, ha rákérdez a felülírásra, nyomjunk a Cserére).
 
 # EN:
-# How to
+# How to:
 Simply drag & drop to Applications and run.
 It's a minimal client so it'll download a lot on first run.
 
