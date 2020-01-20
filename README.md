@@ -3,7 +3,7 @@
 HU:
 # Használat:
 Egyszerűen bele kell húzni az Alkalmazások-ba és elindítani.
-Ha előjön egy ablak, hogy "...nem nyitható meg, mert az Apple nem tudja ellenőrizni, hogy tartalmaz-e kártékony szoftvereket." nyomjunk a "Megjelenítés a Finderben"-re, Jobb gomb az .app-ra, "Mengyitás", megint "Megnyitás" és utána működik.
+Ha előjön egy ablak, hogy "...nem nyitható meg, mert az Apple nem tudja ellenőrizni, hogy tartalmaz-e kártékony szoftvereket." nyomjunk a "Megjelenítés a Finderben"-re, Jobb gomb az .app-ra, "Megnyitás", megint "Megnyitás" és utána működik.
 Ez egy minimal klienst tartalmaz, így az első indításkor sokat fog tölteni.
 
 Ha van egy letöltött teljes kliensünk (pl. Torrenten letöltött Windows-os verzió) a kliens mappa tartalmát másoljuk át a macOS kliens mappájába (jobb gomb a TauriWoW Mists of Pandaria.app-ra, Csomag tartalmának megjelenítése, Contents/Resources/Tauri_files/, ha rákérdez a felülírásra, nyomjunk a Cserére).
