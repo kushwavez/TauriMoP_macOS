@@ -12,7 +12,7 @@ Ha van egy letöltött teljes kliensünk (pl. Torrenten letöltött Windows-os v
  
  Ha találkozunk ezzel a hibával nyissuk meg a Terminal-t és írjuk be:
  
- "xattr -cr <ide húzzuk az alkalmazást>" majd enter (<> nélkül)
+ "xattr -cr {ide húzzuk az alkalmazást}" majd enter (<> nélkül)
  Aztán indítsuk el. 
 
 Letöltési link: https://github.com/vaczi001/TauriMoP_macOS/releases/
@@ -30,6 +30,6 @@ If you have a full client (for ex. a Windows client from Torrent) downloaded cop
 
 If you encounter this problem open Terminal and write:
 
-"xattr -cr <drag the application here>" then enter (without <>)
+"xattr -cr {drag the application here}" then enter (without <>)
 
 Download Link: https://github.com/vaczi001/TauriMoP_macOS/releases/
