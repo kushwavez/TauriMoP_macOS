@@ -9,6 +9,9 @@ Ez egy minimal klienst tartalmaz, így az első indításkor sokat fog tölteni.
 Ha van egy letöltött teljes kliensünk (pl. Torrenten letöltött Windows-os verzió) a kliens mappa tartalmát másoljuk át a macOS kliens mappájába (jobb gomb a TauriWoW Mists of Pandaria.app-ra, Csomag tartalmának megjelenítése, Contents/Resources/Tauri_files/, ha rákérdez a felülírásra, nyomjunk a Cserére).
  
  ⚠️ A fájlok másolása előtt legalább egyszer el kell indítani és engedni, hogy az alap fájlokat leszedje, különben "Sérült fájl..." hibát fogunk kapni!
+ Ha találkozunk ezzel a hibával nyissuk meg a Terminal-t és írjuk be:
+ "xattr -cr <ide húzzuk az alkalmazást>" majd enter (<> nélkül)
+ Aztán indítsuk el. 
 
 Letöltési link: https://github.com/vaczi001/TauriMoP_macOS/releases/
 
@@ -22,5 +25,7 @@ It's a minimal client so it'll download a lot on first run.
 If you have a full client (for ex. a Windows client from Torrent) downloaded copy the downloaded client folder resources to the macOS client folder (right click on TauriWoW Mists of Pandaria.app, Show Package Contents, Contents/Resources/Tauri_files/, if prompted to overwrite click on Replace All).
 
 ⚠️ Before copying please start the game once to download neccessary files, if you won't do that you'll get an error saying "Damaged and cannot be opened..."
+If you encounter this problem open Terminal and write:
+"xattr -cr <drag the application here>" then enter (without <>)
 
 Download Link: https://github.com/vaczi001/TauriMoP_macOS/releases/
