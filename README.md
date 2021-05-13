@@ -1,5 +1,11 @@
 # TauriWoW Mists of Pandaria 5.4.8 macOS
 
+<b>Frissítés 2021.05.13:</b> A Blizzard variált a szervereivel és ennek hatására a felülírt WoW.mfil fájl miatt a Minimal Kliens nem működik (nem tölt). A Launcher így is használható, első indítás után lépj ki, navigálj az "Applications/TauriWoW Mists of Pandaria.app/Contents/Resources/Tauri_files" mappába, cseréld ki a WoW.mfil fájlt az <a href=http://devil.tauri.hu/~aithne/WoW.mfil>erről a linkről</a> letöltöttre, jobb gomb rá, Get Info (vagy Info megjelenítése) Locked=PIPA (vagy Zárolt). Ezek után indítsd el a Launchert ismét, utána jó lesz. 
+
+
+
+<b>Update 2021.05.13:</b>Blizzard made changes to their servers, causing the minimal client won't downloading the files and won't connecting because of the WoW.mfil file inside "Applications/TauriWoW Mists of Pandaria.app/Contents/Resources/Tauri_files". The issue can be workarounded by launcing the app first, closing the app, downloading <a href=http://devil.tauri.hu/~aithne/WoW.mfil>this WoW.mfil file</a> and replace the WoW.mfil file in "Applications/TauriWoW Mists of Pandaria.app/Contents/Resources/Tauri_files", Right click on the replaced WoW.mfil file, Get Info, tick "Locked", then launch the Launcher again, should work.
+
 HU:
 # Használat:
 Egyszerűen bele kell húzni az Alkalmazások-ba és elindítani.
